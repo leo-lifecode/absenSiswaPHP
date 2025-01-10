@@ -2,13 +2,6 @@
 <img src="img/sdabsensi.png" width="400">
 </p>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
-
 # Siswa Management System
 
 ## Table of Contents
@@ -39,11 +32,11 @@ The **Siswa Management System** is a simple web-based application designed to ma
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/siswa-management-system.git
+   git clone https://github.com/leo-lifecode/absenSiswaPHP.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd siswa-management-system
+   cd absenSiswaPHP
    ```
 3. Set up the database:
    - Import the `database.sql` file into your MySQL database.
