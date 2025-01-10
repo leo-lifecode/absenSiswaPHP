@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/public/img/sdabsensi.png" width="400">
+<img src="img/sdabsensi.png" width="400">
 </p>
 
 <p align="center">
